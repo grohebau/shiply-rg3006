@@ -1,6 +1,6 @@
 {
   "S33494": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Barbara Wolf, Kirchbergstrasse 5, 73467 Kirchheim am Ries, Deutschland",
@@ -28,10 +28,10 @@
     "orderDate": "21.01.2026",
     "deliveryDate": "26.01.2026",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Breslauer Str. 366",
+      "postal_code": "90471",
+      "city": "Nürnberg",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
